@@ -1,0 +1,8 @@
+title: Transmission Remote GUI
+description: Transmission Remote GUI is a feature rich cross platform front-end to remotely control a Transmission Bit-Torrent client daemon via its RPC protocol. Transmission Remote GUI is faster and has more functionality than the built-in Transmission web interface.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
