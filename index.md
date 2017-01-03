@@ -1,8 +1,9 @@
 ### Versions
 
-The last version **Transmission Remote GUI v.5.4.0**. [More...](https://github.com/leonsoft-kras/transmisson-remote-gui/releases/latest)
+Here you will find the latest modification of original **Transmission Remote GUI**. At the moment is the version 2017 year. 
+[Download link...](https://github.com/leonsoft-kras/transmisson-remote-gui/releases/latest)
 
-_The latest version of the author (Yury Sidorov) - v.5.0.1. [More...](https://code.google.com/p/transmisson-remote-gui/)_
+_The original version of the author (Yury Sidorov) - 2014 year, [Link...](https://sourceforge.net/projects/transgui/)_
 
 ### Features
 * Native application for Windows, Linux and Mac OS X
